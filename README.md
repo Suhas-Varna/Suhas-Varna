@@ -114,8 +114,8 @@ A desktop application with interactive GUI for:
 I'm always excited to collaborate on interesting projects or discuss technology! Feel free to reach out:
 
 - 📧 Email: suhasvarna17@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/suhas-varna2003/)
-- 🌐 Portfolio: (https://suhas-varna-portfolio.netlify.app/)
+- 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suhas-varna2003/)
+- 🌐[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://suhas-varna-portfolio.netlify.app/)
 
 ---
 
