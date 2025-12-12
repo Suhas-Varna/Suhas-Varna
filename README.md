@@ -1,7 +1,7 @@
 # Hi there, I'm Suhas Varna 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suhas-varna2003/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://suhas-varna-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-suhasvarna17%40gmail.com-red?style=flat&logo=gmail)](mailto:suhasvarna17@gmail.com)
 
 ## 👨‍💻 About Me
@@ -114,9 +114,9 @@ A desktop application with interactive GUI for:
 I'm always excited to collaborate on interesting projects or discuss technology! Feel free to reach out:
 
 - 📧 Email: suhasvarna17@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- 🌐 Portfolio: [Your Portfolio](your-portfolio-url)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/suhas-varna2003/)
+- 🌐 Portfolio: [Your Portfolio](https://suhas-varna-portfolio.netlify.app/)
 
 ---
 
-⭐️ From [SuhasVarna](https://github.com/your-github-username)
+⭐️ From [SuhasVarna](https://github.com/Suhas-Varna)
