@@ -46,7 +46,7 @@ I'm a passionate **Information Science Engineering student** at R N S Institute 
 
 ## 🚀 Featured Projects
 
-### 🧵 [TexFusion: AI-Powered Textile Quality Inspection System](link-to-repo)
+### 🧵 [TexFusion: AI-Powered Textile Quality Inspection System](https://github.com/Suhas-Varna/TexFusion)
 > **Patent Nominated** by RNSIT under KSCST
 
 An AI-driven textile system integrating:
@@ -58,7 +58,7 @@ An AI-driven textile system integrating:
 
 ---
 
-### 📚 [Book Review and Recommendation System](link-to-repo)
+### 📚 [Book Review and Recommendation System](https://github.com/Suhas-Varna/Book-Review-System)
 A full-stack MERN application enabling users to:
 - Browse and search books with detailed information
 - Add reviews and ratings
@@ -68,7 +68,7 @@ A full-stack MERN application enabling users to:
 
 ---
 
-### 💪 [Gym Management System](link-to-repo)
+### 💪 [Gym Management System](https://github.com/Suhas-Varna/Gym)
 A comprehensive gym management solution featuring:
 - Member registration and tracking
 - Membership management
@@ -79,7 +79,7 @@ A comprehensive gym management solution featuring:
 
 ---
 
-### 💰 [Budget Tracker Application](link-to-repo)
+### 💰 [Budget Tracker Application](https://github.com/Suhas-Varna/Budget-Tracker-Application)
 A desktop application with interactive GUI for:
 - Income and expense tracking
 - Transaction categorization
