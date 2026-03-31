@@ -9,7 +9,7 @@
 I'm a passionate **Information Science Engineering student** at R N S Institute of Technology (CGPA: 8.65) with a strong interest in **AI, Deep Learning, and Full-Stack Development**. I love solving complex problems, building efficient solutions, and working on innovative projects that bridge theoretical knowledge with real-world applications.
 
 🔭 Currently working on **TexFusion** - an AI-powered textile quality inspection system (nominated for patent filing under KSCST)  
-🌱 Learning advanced **Deep Learning architectures** and **GANs**  
+🌱 Learning all kinds of **Technologies and TechStacks** 
 💡 Interested in **AI/ML, Web Development, and Emerging Technologies**  
 📫 Reach me at: **suhasvarna17@gmail.com**
 
@@ -46,7 +46,7 @@ I'm a passionate **Information Science Engineering student** at R N S Institute 
 
 ## 🚀 Featured Projects
 
-### 🧵 [TexFusion: AI-Powered Textile Quality Inspection System](https://github.com/Suhas-Varna/TexFusion)
+### 🧵 [TexFusion - AI-Powered Textile Quality Inspection System](https://github.com/Suhas-Varna/TexFusion)
 > **Patent Nominated** by RNSIT under KSCST
 
 An AI-driven textile system integrating:
@@ -68,7 +68,7 @@ A full-stack MERN application enabling users to:
 
 ---
 
-### 💪 [Gym Management System](https://github.com/Suhas-Varna/Gym)
+### 💪 [FitDesk - Gym Management System](https://github.com/Suhas-Varna/Gym)
 A comprehensive gym management solution featuring:
 - Member registration and tracking
 - Membership management
@@ -79,7 +79,7 @@ A comprehensive gym management solution featuring:
 
 ---
 
-### 💰 [Budget Tracker Application](https://github.com/Suhas-Varna/Budget-Tracker-Application)
+### 💰 [SpendSense - Budget Tracker Application](https://github.com/Suhas-Varna/Budget-Tracker-Application)
 A desktop application with interactive GUI for:
 - Income and expense tracking
 - Transaction categorization
